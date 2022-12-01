@@ -1,0 +1,12 @@
+Implement tests for Persons.delete() and Persons.add()
+Make sure inheritance is done properly and nothing is being implemented that can't be inherited 
+(I got points off for this on previous assignment, ask about this)
+Maybe modify code for modify and add records since it is very bulky and repeats stuff (and assignment says use getData())
+
+For myself:
+clean up code a bit and write it more elegantly
+clean up formating with '\n' and stuff
+add error checking
+add some extra functionality perhaps
+review oop principles and see how I am trying to follow them.
+upload to github
